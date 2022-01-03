@@ -1,0 +1,6 @@
+- 🔭 Hie I’m Collen Serudzai
+- 🌱 I'm intrested in web apps, mobile apps and desktop application development
+- 🌱 I’m currently learning kotlin for android development
+- 👯 I’m looking to collaborate on enterprise application development
+- 💬 Ask me about Python,C# VB.net and SQL
+- 📫 How to reach me: serudzaicollen@gmail.com or +263 779 728 150
