@@ -1,7 +1,7 @@
-### Introduction
+## Introduction
 Hi there! I'm Collen Serudzai, a Software Engineer passionate about building robust and scalable applications.
 
-🌐 Technologies I Work With:
+##🌐 Technologies I Work With:
 
 ### Backend Development:
 - Java with Spring Boot for creating enterprise-level applications with a focus on microservices architecture.
