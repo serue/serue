@@ -1,32 +1,37 @@
-## Introduction
-Hi there! I'm Collen Serudzai, a Software Engineer passionate about building robust and scalable applications.
+# Hi there! 👋 I'm Collen Serudzai
+**Software Engineer passionate about building robust, scalable applications.**
 
-## 🌐 Technologies I Work With:
+---
 
-### Backend Development:
-- Java with Spring Boot for creating enterprise-level applications with a focus on microservices architecture.
-- Python with Django for rapid development of secure and maintainable web applications.
-- C# with ASP.NET for developing dynamic, data-driven web applications.
+## 🌐 Technologies I Work With
 
-### Desktop Applications:
-- C# Windows Forms for crafting intuitive desktop applications that enhance user experience.
-- VB.NET for legacy system maintenance and new application development where applicable.
+- **Java & Spring Boot** – Microservices and enterprise applications  
+- **Python & Django** – Secure web apps and RESTful APIs  
+- **C# & ASP.NET / Windows Forms & VB.NET** – Desktop and data-driven apps  
+- **SQL** – Relational database design and optimization  
 
-### Database:
-SQL for managing and querying relational databases, ensuring data integrity and performance.
+---
 
-🔧 Projects You'll Find Here Include:
+## 🔧 Key Projects
 
-- Spring MVC for drone inventory management using Spring Boot and Thymeleaf Template Engine
-- Microservices using Spring Boot, demonstrating how to build scalable, modular systems.
-- Django projects focused on RESTful APIs, authentication systems, and content management.
-- C# and VB.NET applications ranging from simple tools to complex business solutions.
+- **Web-based Point of Sale System** – Full-featured POS built with **Java and Spring Boot**  
+- **Fiscalisation Platform & Agent** – Distributed system for **real-time transaction validation, secure reporting, and compliance**, with **lightweight agents deployed at client sites**  
+- **Spring MVC & Microservices Projects** – Scalable, modular systems for web and backend solutions  
+- **Django Applications** – APIs, authentication systems, and content management  
 
-💡 What I'm Currently Working On:
-[I am currently working on a traffic enforcement system that streamlines the processes of crime management and ticketing for traffic violations. I am using Java and Springboot with POSTGRESQL Database]
+---
 
-📫 How to reach me:
-Feel free to reach out through GitHub for collaboration, questions, or just to say hi!
-You can also inbox me on my gmail account [Email me](serudzaicollen@gmail.com)
+## 💡 Current Focus
 
-🔥 Let's connect and build something great together!
+Enhancing the **Fiscalisation Platform & Agent** for seamless compliance and backend reliability, while maintaining and improving the **web-based POS system**  
+
+---
+
+## 📫 Connect With Me
+
+- **GitHub:** [CollenSerudzai](https://github.com/yourusername)  
+- **Email:** [serudzaicollen@gmail.com](mailto:serudzaicollen@gmail.com)  
+
+---
+
+🔥 Let’s collaborate and build **innovative, impactful solutions** together!
